@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nomber1-1
-- 👀 I’m interested in : you
-- 🌱 I’m currently learning : how to live
-- 💞️ I’m looking to collaborate on : making babies
-- 📫 How to reach me : Discord - Junko Enoshima#7712
+- 👀 I’m interested in : Video Games, Game Design and AI/Machine Learning
+- 🌱 I’m currently learning : Assembly, C/C++
+- 💞️ I’m looking to collaborate on : Anything! Just hit me up and I would love to work together on something!
+- 📫 How to reach me : (514) 627-9457 | patrick.zakaria@mail.mcgill.ca
 
 <!---
 Nomber1-1/Nomber1-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
