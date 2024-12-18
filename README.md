@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nomber1-1
 - 👀 I’m interested in : Figure Skating, Game Design, Mathematics, AI/ML, CPU/GPU Development
-- 🌱 I’m currently learning : Altium Designer, LTSpice, PyTorch, Hugging Face
+- 🌱 I’m currently learning : LTSpice, PyTorch, Hugging Face
 - 💞️ I’m looking to collaborate on : Anything! Just send me a messange and I would love to work together on something!
 - 📫 How to reach me : (514) 627-9457 | patrick.zakaria@mail.mcgill.ca
 
