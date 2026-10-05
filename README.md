@@ -1,6 +1,6 @@
 # Hi there, I'm Patrick 👋
 
-I'm a Computer Engineering student at McGill University (Minor in Applied AI) specializing in scalable backend systems, machine learning, and automation. 
+I just completed my Computer Engineering Bachelor's at McGill University (Minor in Applied AI) specializing in scalable backend systems, machine learning, and automation. 
 
 ## 🚀 About Me
 - 💼 **Experience:** Previously a Software & AI Engineering Intern at **FlightHub** and **Loto-Québec**.
