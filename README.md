@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Nomber1-1
-- 👀 I’m interested in : AI/ML, Computer Vision, CPU/GPU Development, Mathematics, and Figure Skating!  
-- 🌱 I’m currently learning : PyTorch, TensorFlow, DL
-- 💞️ I’m looking to collaborate on : Anything! Just send me a messange and I would love to work together on something!
-- 📫 How to reach me : (514) 627-9457 | patrick.zakaria@mail.mcgill.ca
+# Hi there, I'm Patrick 👋
 
-<!---
-Nomber1-1/Nomber1-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Engineering student at McGill University (Minor in Applied AI) specializing in scalable backend systems, machine learning, and automation. 
+
+## 🚀 About Me
+- 💼 **Experience:** Previously a Software & AI Engineering Intern at **FlightHub** and **Loto-Québec**.
+- 🎓 **Education:** Completing my B.Eng in Computer Engineering at McGill.
+- 🔬 **Current Interests:** Mechanistic interpretability, agentic coding workflows, and managing my self-hosted Docker homelab.
+- 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/patrick-zakaria/)
+
+## 💻 Tech Stack
+- **Languages:** Python, Java, C, C#, TypeScript, JavaScript, SQL
+- **Frameworks & AI:** PyTorch, Spring Boot, Vue.js
+- **Infrastructure & Tools:** Docker, Apache Kafka, Linux, Git
