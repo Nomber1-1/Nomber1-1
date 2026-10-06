@@ -4,7 +4,9 @@
 Backend systems, machine learning, and the kind of automation that quietly removes a
 chore from somebody's week. Montréal.
 
-Previously a Software & AI Engineering Intern at **FlightHub** and **Loto-Québec**.
+Previously an Intern at **FlightHub** and **Loto-Québec**.
+
+Currently **open to software/backend and AI/ML roles** — if that's you, say hello 😉
 
 ---
 
@@ -19,25 +21,21 @@ Previously a Software & AI Engineering Intern at **FlightHub** and **Loto-Québe
 
 ## 🧊 The other half of my life
 
-I coach figure skating at a Québec club — 60+ skaters, STAR assessments, and a billing
+I coach figure skating club in my neighbourhood. Skated for 12 years and now in charge of 60+ skaters, STAR assessments, and a billing
 system I ended up building myself because the spreadsheet was winning.
 
-It's the work that taught me the hardest part of software was never the code. It's the
-coach standing on a rink in February with cold hands, who needs the thing to be obvious.
+It's the work that taught me how useful software can be in the real world in non tech related fields. Lots of automation and optimization opportunities for anyone in the tech world. Luckily, that's exacty me 😏 
 
 ## 🎮 Game jams
 
 Three McGameJams, which is the best format I know for building something ridiculous in
 48 hours with people you like:
 
-- **[McGameJam 2026 — *A Job Hunts*](https://github.com/Tatok-n/GameJam_26)** — team entry.
-  The premise writes itself and I refuse to spoil it.
+- **[McGameJam 2026 — *A Job Hunts*](https://github.com/Tatok-n/GameJam_26)** — the premise writes itself and I refuse to spoil it.
+- **[McGameJam 2024 — *Beyond Light*](https://github.com/Tatok-n/McGameJam2024)** — you are stuck inside a contraption with a companion that looks quite familiar. I wonder where I know him from...
 - **[McGameJam 2023 — D-10](https://github.com/Nomber1-1/McGameJam-2023-D-10)** — a
   space-horror escape game in Unity/C#, team of 7. Space *and* horror, which is roughly
   my whole personality in one repository.
-- **McGameJam 2024 — *Beyond Light*** — the repository no longer exists anywhere. There
-  is something thematically appropriate about a game jam entry vanishing, but I still
-  think about it.
 
 ## 🏠 The homelab
 
@@ -53,17 +51,16 @@ you in weekends:
 | **Network** | Pi-hole · Nginx Proxy Manager · Tailscale |
 | **Operations** | Portainer |
 
-It's down at the moment — the NAS died — which turned out to be a brutally effective
-audit of which services I actually used. Builds character, or at least a shopping list.
+It's down at the moment — the SSDs died while I was on vacation 😭. Replacements on pause until the AI gods allow the prices to come back down 🙏
 
 ## 🕹️ Currently
 
-- 🕹️ Replaying **Resident Evil** — the whole run, and yes, I have opinions about the mansion
+- 🕹️ Playing **Resident Evil** — the whole run. Currently on RE9. Spoilers: It's awesome !
 - 🧗 Bouldering, badly but with real commitment
-- 🎲 A games backlog I am losing to, gracefully
-- 💼 **Open to software/backend and AI/ML roles** — if that's you, say hello
+- 🎲 A games backlog I am losing to... very badly
+- 🧠 Testing out Hermes and local LLMs to automate my daily tasks
 
-## 🛠️ What I reach for
+## 🛠️ My Go-Tos
 
 | | |
 |---|---|
@@ -72,7 +69,7 @@ audit of which services I actually used. Builds character, or at least a shoppin
 | **Backend** | Spring Boot · REST · PostgreSQL · Supabase |
 | **Infra** | Docker · Docker Compose · Kafka · Linux · Git · GitHub Actions |
 
-## 📌 Selected work
+## 📌 My best work
 
 - **[sportcenter](https://github.com/Nomber1-1/sportcenter)** — full-stack sports centre
   management: 69 REST endpoints, 8 JPA entities, 19 test classes. Where I learned that
@@ -90,8 +87,8 @@ audit of which services I actually used. Builds character, or at least a shoppin
 
 ### ▶️ Try one live
 
-**[CanSkate System →](https://canskate-system-nomber1.vercel.app)** — evaluation and
-progression tracking for skate clubs. The source stays private (it runs on real skaters),
+**[CanSkate System](https://canskate-system-nomber1.vercel.app)** — (In progress) evaluation and
+progression tracking for skating clubs. The source stays private (it runs on real skaters),
 so the demo is public, read-only, and resets itself every night.
 
 ---
