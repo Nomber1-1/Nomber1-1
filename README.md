@@ -4,7 +4,7 @@
 Backend systems, machine learning, and the kind of automation that quietly removes a
 chore from somebody's week. Montréal.
 
-Previously an Intern at **FlightHub** and **Loto-Québec**.
+Previously a web & AI intern at **FlightHub** and a data engineering intern at **Loto-Québec**.
 
 Currently **open to software/backend and AI/ML roles** — if that's you, say hello 😉
 
@@ -21,10 +21,13 @@ Currently **open to software/backend and AI/ML roles** — if that's you, say he
 
 ## 🧊 The other half of my life
 
-I coach figure skating club in my neighbourhood. Skated for 12 years and now in charge of 60+ skaters, STAR assessments, and a billing
-system I ended up building myself because the spreadsheet was winning.
+I coach at a figure skating club in my neighbourhood. Twelve years on the ice, and now I'm
+responsible for 60+ skaters, STAR assessments, and a billing system I ended up building myself
+because the spreadsheet was winning.
 
-It's the work that taught me how useful software can be in the real world in non tech related fields. Lots of automation and optimization opportunities for anyone in the tech world. Luckily, that's exacty me 😏 
+It's the work that taught me how much software can do in fields that aren't tech at all. Rinks run
+on spreadsheets, clipboards and goodwill — which is an enormous amount of automation waiting to
+happen. And luckily for me, that's exactly the kind of problem I enjoy 😏
 
 ## 🎮 Game jams
 
@@ -55,7 +58,7 @@ It's down at the moment — the SSDs died while I was on vacation 😭. Replacem
 
 ## 🕹️ Currently
 
-- 🕹️ Playing **Resident Evil** — the whole run. Currently on RE9. Spoilers: It's awesome !
+- 🕹️ Playing **Resident Evil** — the whole run. Currently on RE9. Spoilers: it's awesome!
 - 🧗 Bouldering, badly but with real commitment
 - 🎲 A games backlog I am losing to... very badly
 - 🧠 Testing out Hermes and local LLMs to automate my daily tasks
