@@ -18,7 +18,7 @@ Previously an Intern at **FlightHub** and **Loto-Québec**.
 
 ## 🧊 The other half of my life
 
-I coach figure skating at club in my neighbourhood — 60+ skaters, STAR assessments, and a billing
+I coach figure skating at club in my neighbourhood — 60+ skaters, STAR test assessments, and a billing
 system I ended up building myself because the spreadsheet was winning.
 
 It's the work that taught me the hardest part of software was never the code. It's the
@@ -26,12 +26,12 @@ coach standing on a rink in February with cold hands, who needs the thing to be 
 
 ## 🎮 Currently
 
-- 🕹️ Playing **Resident Evil** — the whole run, and yes, I have opinions about the mansion
+- 🕹️ Playing **Resident Evil** — the whole run, currently on RE9. Spoilers: it's awesome !
 - 🧗 Bouldering, badly but with real commitment
 - 🎲 A games backlog I am losing to, gracefully
 - 💼 **Open to software/backend and AI/ML roles** — if that's you, say hello
 
-## 🛠️ What I reach for
+## 🛠️ My Go-Tos
 
 | | |
 |---|---|
@@ -40,7 +40,7 @@ coach standing on a rink in February with cold hands, who needs the thing to be 
 | **Backend** | Spring Boot · REST · PostgreSQL · Supabase |
 | **Infra** | Docker · Kafka · Linux · Git · GitHub Actions |
 
-## 📌 Selected work
+## 📌 My best work
 
 - **[sportcenter](https://github.com/Nomber1-1/sportcenter)** — full-stack sports centre
   management: 69 REST endpoints, 8 JPA entities, 19 test classes. Where I learned that
@@ -58,8 +58,8 @@ coach standing on a rink in February with cold hands, who needs the thing to be 
 
 ### ▶️ Try one live
 
-**[CanSkate System →](https://canskate-system-nomber1.vercel.app)** — evaluation and
-progression tracking for skate clubs. The source stays private (it runs on real skaters),
+**[CanSkate System](https://canskate-system-nomber1.vercel.app)** — (In progress) CanSkate evaluation and
+progression tracking for skating clubs. The source stays private (it runs on real skaters),
 so the demo is public, read-only, and resets itself every night.
 
 ---
