@@ -4,7 +4,7 @@
 Backend systems, machine learning, and the kind of automation that quietly removes a
 chore from somebody's week. Montréal.
 
-Previously a Software & AI Engineering Intern at **FlightHub** and **Loto-Québec**.
+Previously an Intern at **FlightHub** and **Loto-Québec**.
 
 ---
 
@@ -18,7 +18,7 @@ Previously a Software & AI Engineering Intern at **FlightHub** and **Loto-Québe
 
 ## 🧊 The other half of my life
 
-I coach figure skating at a Québec club — 60+ skaters, STAR assessments, and a billing
+I coach figure skating at club in my neighbourhood — 60+ skaters, STAR assessments, and a billing
 system I ended up building myself because the spreadsheet was winning.
 
 It's the work that taught me the hardest part of software was never the code. It's the
@@ -26,7 +26,7 @@ coach standing on a rink in February with cold hands, who needs the thing to be 
 
 ## 🎮 Currently
 
-- 🕹️ Replaying **Resident Evil** — the whole run, and yes, I have opinions about the mansion
+- 🕹️ Playing **Resident Evil** — the whole run, and yes, I have opinions about the mansion
 - 🧗 Bouldering, badly but with real commitment
 - 🎲 A games backlog I am losing to, gracefully
 - 💼 **Open to software/backend and AI/ML roles** — if that's you, say hello
