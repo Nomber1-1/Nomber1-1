@@ -8,13 +8,13 @@ I'm open to software/backend and AI/ML roles right now. If you're hiring, say he
 
 ## 🔬 What I'm digging into
 
-- Mechanistic interpretability: what actually happens inside a transformer, versus what it says about itself with total confidence.
+- Local Model testing: I test the newest and hottest models on my local desktop. What's the worse that could happen...
 - Agentic coding workflows: I ship with a model in the loop most days, and I try to be straight about the parts where that falls apart.
-- Proving things instead of assuming them: I run the migration, read the row count back, and find out I was wrong.
+- Skating projects: I am currently working on some projects for my coaching. Mostly, a billing system for my team and a CanSkate tracking system for the club I work at. 
 
 ## 🧊 The other half of my life
 
-I coach at a figure skating club in my neighbourhood. Twelve years on the ice, and these days I'm responsible for 60+ skaters, STAR assessments, and a billing system I wrote myself because the spreadsheet was winning.
+I coach at a figure skating club in my neighbourhood. Fifteen years on the ice, and these days I'm responsible for 60+ skaters, STAR assessments, and a billing system I wrote myself because the spreadsheet was winning.
 
 That job showed me how much software can do in places that aren't tech at all. Rinks run on spreadsheets, clipboards and goodwill, and all of it is automation nobody has written yet. It happens to be my favourite kind of problem.
 
